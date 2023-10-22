@@ -105,7 +105,7 @@ export default function Home() {
         </div>
       </div>
       <div className='sm:border border-[#DBDBDB] rounded-sm mt-3 min-w-[350px] flex items-center flex-col w-[268px] py-5'>
-        <p className='text-sm'>Don't have an account? <a className='text-[#0095F6] font-bold' href="https://www.instagram.com/accounts/emailsignup/?next=%2Faccount%2Flogin%2F">Sign up</a></p>
+        <p className='text-sm'>Don&apos;t have an account? <a className='text-[#0095F6] font-bold' href="https://www.instagram.com/accounts/emailsignup/?next=%2Faccount%2Flogin%2F">Sign up</a></p>
       </div>
 
       <div className='w-[350px] flex flex-col items-center py-5'>
